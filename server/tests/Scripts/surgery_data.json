@@ -1,0 +1,185 @@
+{
+  "procedure": "Chevron Osteotomy - Bunion Surgery",
+  "stages": [
+    {
+      "stage": "Preoperative Setup & Patient Positioning",
+      "steps": [
+        {
+          "step_id": "step_001",
+          "step_name": "Pre-Surgical Preparation",
+          "description": "Select the patient model and confirm hallux valgus severity via pre-op scans.",
+          "tool_used": "Pre-Op Scans",
+          "anatomy_targeted": "Foot"
+        },
+        {
+          "step_id": "step_002",
+          "step_name": "Patient Positioning",
+          "description": "Adjust patient position to supine with foot stabilized.",
+          "tool_used": "Positioning Pads",
+          "anatomy_targeted": "Leg and Foot"
+        },
+        {
+          "step_id": "step_003",
+          "step_name": "Blood Flow Control",
+          "description": "Apply thigh tourniquet to control blood flow during surgery.",
+          "tool_used": "Thigh Tourniquet",
+          "anatomy_targeted": "Leg"
+        }
+      ]
+    },
+    {
+      "stage": "Incision and Exposure",
+      "steps": [
+        {
+          "step_id": "step_004",
+          "step_name": "Making Incision",
+          "description": "Make a medial longitudinal incision over the first metatarsophalangeal (MTP) joint using a scalpel.",
+          "tool_used": "Scalpel",
+          "anatomy_targeted": "First MTP Joint"
+        },
+        {
+          "step_id": "step_005",
+          "step_name": "Soft Tissue Separation",
+          "description": "Use retractors to separate soft tissues, exposing the bunion and metatarsal head.",
+          "tool_used": "Retractors",
+          "anatomy_targeted": "Metatarsal Head"
+        },
+        {
+          "step_id": "step_006",
+          "step_name": "Nerve Protection",
+          "description": "Identify and protect the dorsal cutaneous nerve to prevent nerve damage.",
+          "tool_used": "Forceps",
+          "anatomy_targeted": "Dorsal Cutaneous Nerve"
+        }
+      ]
+    },
+    {
+      "stage": "Exostectomy (Bunionectomy)",
+      "steps": [
+        {
+          "step_id": "step_007",
+          "step_name": "Bunion Removal",
+          "description": "Select the oscillating saw and carefully resect the medial eminence (bunion).",
+          "tool_used": "Oscillating Saw",
+          "anatomy_targeted": "First Metatarsal Head"
+        },
+        {
+          "step_id": "step_008",
+          "step_name": "Smoothing Bone Edges",
+          "description": "Use a VR rasp or burr to smooth rough edges after bunion removal.",
+          "tool_used": "Rasp/Burr",
+          "anatomy_targeted": "First Metatarsal Head"
+        }
+      ]
+    },
+    {
+      "stage": "Chevron Osteotomy Execution",
+      "steps": [
+        {
+          "step_id": "step_009",
+          "step_name": "Marking Osteotomy Site",
+          "description": "Mark the osteotomy site 5-10 mm proximal to the articular surface.",
+          "tool_used": "Surgical Marker",
+          "anatomy_targeted": "First Metatarsal Shaft"
+        },
+        {
+          "step_id": "step_010",
+          "step_name": "Performing Chevron Cut",
+          "description": "Use an oscillating saw to create a V-shaped (Chevron) cut with the apex directed distally.",
+          "tool_used": "Oscillating Saw",
+          "anatomy_targeted": "First Metatarsal Shaft"
+        },
+        {
+          "step_id": "step_011",
+          "step_name": "Ensuring Proper Osteotomy Angle",
+          "description": "Ensure osteotomy angle of 60°-90° and verify precision using intraoperative guidance.",
+          "tool_used": "Angle Guide",
+          "anatomy_targeted": "First Metatarsal Shaft"
+        }
+      ]
+    },
+    {
+      "stage": "Metatarsal Head Translation & Alignment",
+      "steps": [
+        {
+          "step_id": "step_012",
+          "step_name": "Shifting Metatarsal Head",
+          "description": "Grip and manipulate the distal metatarsal head, shifting it laterally (~3-5 mm) using VR controllers.",
+          "tool_used": "Surgical Graspers",
+          "anatomy_targeted": "First Metatarsal Head"
+        },
+        {
+          "step_id": "step_013",
+          "step_name": "Confirming Alignment",
+          "description": "Use real-time VR alignment tools to confirm IM angle correction and sesamoid re-centering.",
+          "tool_used": "VR Alignment Tools",
+          "anatomy_targeted": "Metatarsal Head"
+        }
+      ]
+    },
+    {
+      "stage": "Fixation of the Osteotomy",
+      "steps": [
+        {
+          "step_id": "step_014",
+          "step_name": "Drilling Pilot Hole",
+          "description": "Drill a pilot hole using a VR power drill.",
+          "tool_used": "VR Power Drill",
+          "anatomy_targeted": "First Metatarsal Shaft"
+        },
+        {
+          "step_id": "step_015",
+          "step_name": "Inserting Fixation Screw",
+          "description": "Insert a cannulated screw and apply compression fixation.",
+          "tool_used": "Cannulated Screw",
+          "anatomy_targeted": "First Metatarsal Shaft"
+        }
+      ]
+    },
+    {
+      "stage": "Soft Tissue & Capsular Repair",
+      "steps": [
+        {
+          "step_id": "step_016",
+          "step_name": "Capsular Suturing",
+          "description": "Use VR forceps and a needle driver to suture the medial capsule.",
+          "tool_used": "Suturing Kit",
+          "anatomy_targeted": "Medial Capsule"
+        },
+        {
+          "step_id": "step_017",
+          "step_name": "Layered Closure",
+          "description": "Close subcutaneous tissues and skin using layered suturing techniques.",
+          "tool_used": "Suturing Kit",
+          "anatomy_targeted": "Incision Site"
+        }
+      ]
+    },
+    {
+      "stage": "Postoperative Care & Simulation Completion",
+      "steps": [
+        {
+          "step_id": "step_018",
+          "step_name": "Checking Toe Vascularity",
+          "description": "Check vascularity of the great toe using capillary refill test.",
+          "tool_used": "Handheld Doppler",
+          "anatomy_targeted": "Great Toe"
+        },
+        {
+          "step_id": "step_019",
+          "step_name": "Final Stability Confirmation",
+          "description": "Confirm IM angle correction and fixation integrity under VR fluoroscopy.",
+          "tool_used": "VR Fluoroscopy",
+          "anatomy_targeted": "Metatarsal Shaft"
+        },
+        {
+          "step_id": "step_020",
+          "step_name": "Applying Post-Op Dressing",
+          "description": "Provide post-op dressing and foot stabilization for early weight-bearing.",
+          "tool_used": "Surgical Dressing Kit",
+          "anatomy_targeted": "Foot"
+        }
+      ]
+    }
+  ]
+}
